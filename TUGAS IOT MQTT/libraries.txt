@@ -1,0 +1,9 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+ThingsBoard
+ArduinoJson
+PubSubClient
+DHT22
+DHT11
+DHT sensor library
